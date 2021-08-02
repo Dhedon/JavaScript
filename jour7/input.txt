@@ -1,0 +1,7 @@
+    Stocké sur un support physique autre que la RAM.
+4 opération pour un ficher
+° ouverture
+° Fermeture
+° Lecture
+° Ecriture
+Dans le module (fs) = pas installé(déjà présent dans le Node)
